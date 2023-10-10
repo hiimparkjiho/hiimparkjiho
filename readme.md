@@ -2,7 +2,7 @@
 ### E-mail : jiho2689@gmail.com 
 <hr>
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello,&nbsp;world!)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Welcome)
 
 ### 앞으로 공부할 언어들
 
